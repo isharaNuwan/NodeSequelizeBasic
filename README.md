@@ -11,6 +11,9 @@ Please follow the bellow step for run the app
 you can access the followiig apis :- 
 
 localhost:3000/addUser
+
 localhost:3000/updateUser
+
 localhost:3000/deleteUser
+
 localhost:3000/allUsers
