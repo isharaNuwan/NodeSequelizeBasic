@@ -1,4 +1,4 @@
-# NodeSequelizeBasic
+# NodeSequelizeBasic ...............
 This is  same application of sequelize ORM instigation to node application.  
 
 Please follow the bellow step for run the app
